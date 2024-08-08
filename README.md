@@ -1,5 +1,5 @@
 - 👋 Hi, I’m V. Gurucharan
-- 👀 I am a PhD in String theory (theoretical physics) and am currently working in AI/ML. I’m interested in natural language processing (NLP) and deep learning. I am also interested in Quantum Computing
+- 👀 I am a PhD in String theory (theoretical physics) and am currently working in AI/ML. I’m interested in natural language processing (NLP) and deep learning. I am also interested in Quantum Computing.
 - 💞️ I’m looking to collaborate on AI/ML research projects.
 - 📫 Mail me at : vgc@pm.me
 - 😄 Pronouns: he/him
